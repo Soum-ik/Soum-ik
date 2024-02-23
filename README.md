@@ -4,7 +4,7 @@
   
 <marquee align="left">A passionate frontend developer from Bangladesh</marquee>
 <br/>
-<p align="left">Hi, I am Soumik. I am an experienced front-end web developer. I have worked in multiple technologies to build websites and web applications. For me as a professional web developer, learning new technologies on the web is my passion. Right now, I am working as a Front-end developer on a different platform. Just to inform you, JavaScript is my love. I love to code in JavaScript and build projects in JavaScript.
+<p align="left">Hi, I am Soumik. I am an experienced front-end web developer. I have worked in multiple technologies to build websites and web applications. For me as a professional web developer, learning new technologies on the web is my passion. Right now, I am working as a MERN. Just to inform you, JavaScript is my love. I love to code in JavaScript and build projects in JavaScript.
 <p/>
 </p>
 
