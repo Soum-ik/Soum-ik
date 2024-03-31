@@ -2,9 +2,9 @@
 <br/>
 <p align="center">
   
-<marquee align="left">A passionate frontend developer from Bangladesh</marquee>
+<marquee align="left">A passionate frontend developer from Sylhet, Bangladesh</marquee>
 <br/>
-<p align="left">Hi, I am Soumik. I am an experienced front-end web developer. I have worked in multiple technologies to build websites and web applications. For me as a professional web developer, learning new technologies on the web is my passion. Right now, I am working as a MERN. Just to inform you, JavaScript is my love. I love to code in JavaScript and build projects in JavaScript.
+<p align="left">Hi, I am Soumik Sarkar, a junior full-stack developer with expertise in JavaScript. Currently, I am working on **MERN** stack and** Next.js.** My journey started in July 2022 and it's been a long process, but I have been practicing by myself. The last 10 months have been crazy for me as I explored various experiences, contributed to various open-source projects, and played different roles on different projects. It was really helpful in upgrading myself. I am currently working on a database using the Prisma framework, along with the MERN stack and Next.js.
 <p/>
 </p>
 
@@ -42,10 +42,7 @@
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/raihanhosen011)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/raihanhosen011)
 [![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/raihanhosen011)
-[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/raihanhosen011)
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/raihanhosen011)
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/raihanhosen011)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/raihanhosen011)
 [![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/raihanhosen011)
 [![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/raihanhosen011)
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/raihanhosen011)
