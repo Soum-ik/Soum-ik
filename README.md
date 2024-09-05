@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   
-<marquee align="left">A passionate full stack developer from Sylhet, Bangladesh</marquee>
+<marquee align="left">A Passionate Backend (focus) full stack developer from Sylhet, Bangladesh</marquee>
 <br/>
 <p align="left">Hi, I am Soumik Sarkar, a full-stack developer with expertise in JavaScript. Currently, I am working on **MERN** stack and** Next.js.** My journey started in July 2022 and it's been a long process, but I have been practicing by myself. The last 10 months have been crazy for me as I explored various experiences, contributed to various open-source projects, and played different roles on different projects. It was really helpful in upgrading myself. I am currently working on a database using the Prisma framework, along with the MERN stack and Next.js.
 <p/>
