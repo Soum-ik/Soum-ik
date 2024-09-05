@@ -19,7 +19,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarkarsoumik215@gmail.com)
 
 
-- 🔭 I’m currently working with Front-end development
+- 🔭 I’m currently working with Back-end development
 - 🌱 I’m currently learning MERN
 - 🥅 2022 Goals: Completing Web Development
 - ⚡ Fun fact: I love research 
