@@ -27,21 +27,52 @@
 ### Things I code with
 <hr/>
 
-[![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://github.com/soum-ik)
-[![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/soum-ik)
-[![GSAP Badge](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://github.com/soum-ik)
-[![Framer Motion Badge](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://github.com/soum-ik)
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/soum-ik)
-[![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](https://github.com/soum-ik)
+### 🧠 Tech Stack
+
+#### 🌐 Frontend
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/soum-ik)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-0078D6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/soum-ik)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/soum-ik)
-[![Next Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextjs&logoColor=61DAFB)](https://github.com/soum-ik)
-[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/soum-ik)
-[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/soum-ik)
-[![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/soum-ik)
-[![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/soum-ik)
+[![NextJS Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js&logoColor=61DAFB)](https://github.com/soum-ik)
+[![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/soum-ik)
+[![Framer Motion Badge](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)](https://github.com/soum-ik)
+[![GSAP Badge](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://github.com/soum-ik)
+[![Zod Badge](https://img.shields.io/badge/Zod-3E66F1?style=for-the-badge&logo=zod&logoColor=white)](https://github.com/soum-ik)
+
+#### 🧠 Backend
+[![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/soum-ik)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://github.com/soum-ik)
+[![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/soum-ik)
+[![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/soum-ik)
+[![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://github.com/soum-ik)
+[![WebRTC Badge](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://github.com/soum-ik)
+
+#### 💾 Database
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/soum-ik)
+[![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/soum-ik)
+[![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/soum-ik)
+[![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/soum-ik)
+
+#### 🛠️ Dev Tools
+[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/soum-ik)
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/soum-ik)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/soum-ik)
+[![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/soum-ik)
+[![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)](https://github.com/soum-ik)
+[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/soum-ik)
+[![Vercel Badge](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/soum-ik)
+[![npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/soum-ik)
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/soum-ik)
-[![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/soum-ik)
-[![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/soum-ik)
+
+#### 💳 Payments
+[![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://github.com/soum-ik)
+
+#### 📡 RFID / IoT
+[![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/soum-ik)
+
+#### 🤖 AI Integration
+[![AI Badge](https://img.shields.io/badge/AI-Gemini-3C3C3C?style=for-the-badge&logo=google&logoColor=white)](https://github.com/soum-ik)
+
 
 
 <br/>
