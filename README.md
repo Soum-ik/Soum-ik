@@ -4,11 +4,11 @@
   
 <marquee align="left">A Passionate Backend (focus) full stack developer from Sylhet, Bangladesh</marquee>
 <br/>
+<br/>
 <p align="left">
-  Hi, I am <strong>Soumik Sarkar</strong>, a <strong>Backend-Focused Full Stack Developer</strong>. Currently, I am working with <strong>Microservices</strong> and <strong>Next.js</strong>. My journey started in <strong>July 2022</strong>, and it's been an incredible self-learning experience ever since.<br/><br/>
-  The last 10 months have been truly transformative — I explored various domains, contributed to open-source projects, and played multiple roles across diverse projects, all of which helped me level up my skills.<br/><br/>
-  I’m currently working with databases using the <strong>Prisma ORM</strong>, along with the <strong>MERN stack</strong> and <strong>Next.js</strong>. I'm also a <strong>Stripe Payment Integration Specialist</strong> and actively involved in building <strong>AI-powered applications</strong>.
+Hi, I am Soumik Sarkar, a <strong>Backend-Focused Full Stack Developer</strong>. Currently, I am working with <strong>Microservices</strong> and <strong>Next.js</strong>. My journey started in July 2022, and it's been a long process of consistent self-practice and growth. Over time, I’ve explored various technologies, contributed to open-source projects, and taken on different roles across multiple projects. These experiences have helped me evolve as a developer. I am currently working with the <strong>Prisma ORM</strong> for <strong>database management</strong>, along with the <strong>MERN stack</strong> and <strong>Next.js</strong>. I have hands-on experience working with <strong>AI-powered applications</strong>, <strong>Stripe payment integrations</strong>, <strong>real-time systems</strong>, and <strong>chat-based applications</strong>. Passionate about turning ideas into impactful realities, I thrive on solving challenges, building connections, and creating stories worth sharing.
 </p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soum-ik&label=Profile%20views&color=0e75b6&style=flat" alt="soum-ik" /> </p>
 
