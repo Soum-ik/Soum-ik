@@ -4,8 +4,10 @@
   
 <marquee align="left">A Passionate Backend (focus) full stack developer from Sylhet, Bangladesh</marquee>
 <br/>
-<p align="left">Hi, I am Soumik Sarkar, a full-stack developer with expertise in JavaScript. Currently, I am working on **MERN** stack and** Next.js.** My journey started in July 2022 and it's been a long process, but I have been practicing by myself. The last 10 months have been crazy for me as I explored various experiences, contributed to various open-source projects, and played different roles on different projects. It was really helpful in upgrading myself. I am currently working on a database using the Prisma framework, along with the MERN stack and Next.js.
-<p/>
+<p align="left">
+  Hi, I am <strong>Soumik Sarkar</strong>, a <strong>Backend-Focused Full Stack Developer</strong>. Currently, I am working with <strong>Microservices</strong> and <strong>Next.js</strong>. My journey started in <strong>July 2022</strong>, and it's been an incredible self-learning experience ever since.<br/><br/>
+  The last 10 months have been truly transformative — I explored various domains, contributed to open-source projects, and played multiple roles across diverse projects, all of which helped me level up my skills.<br/><br/>
+  I’m currently working with databases using the <strong>Prisma ORM</strong>, along with the <strong>MERN stack</strong> and <strong>Next.js</strong>. I'm also a <strong>Stripe Payment Integration Specialist</strong> and actively involved in building <strong>AI-powered applications</strong>.
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soum-ik&label=Profile%20views&color=0e75b6&style=flat" alt="soum-ik" /> </p>
@@ -20,8 +22,8 @@
 
 
 - 🔭 I’m currently working with Back-end development
-- 🌱 I’m currently learning MERN
-- 🥅 2022 Goals: Completing Web Development
+- 🌱 I’m currently learning Nest.js Microservice
+- 🥅 2022 Goals: Completing Software Enigneer
 - ⚡ Fun fact: I love research 
 
 ### Things I code with
