@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Soumik Sarkar</h1>
-<br/>
+<h1 align="center">Hey there 👋, I'm Soumik Sarkar</h1>
+
 <p align="center">
-  
-<marquee align="left">A Passionate Backend (focus) full stack developer from Sylhet, Bangladesh</marquee>
-<br/>
-<br/>
-<p align="left">
-Hi, I am Soumik Sarkar, a <strong>Backend-Focused Full Stack Developer</strong>. Currently, I am working with <strong>Microservices</strong> and <strong>Next.js</strong>. My journey started in July 2022, and it's been a long process of consistent self-practice and growth. Over time, I’ve explored various technologies, contributed to open-source projects, and taken on different roles across multiple projects. These experiences have helped me evolve as a developer. I am currently working with the <strong>Prisma ORM</strong> for <strong>database management</strong>, along with the <strong>MERN stack</strong> and <strong>Next.js</strong>. I have hands-on experience working with <strong>AI-powered applications</strong>, <strong>Stripe payment integrations</strong>, <strong>real-time systems</strong>, and <strong>chat-based applications</strong>. Passionate about turning ideas into impactful realities, I thrive on solving challenges, building connections, and creating stories worth sharing.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&height=30&lines=Backend+Wizard+%7C+AI+Builder+%7C+Infra+Optimizer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <strong>Backend-Focused Full Stack Developer from Sylhet, Bangladesh 🇧🇩</strong>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soum-ik&label=Profile%20views&color=0e75b6&style=flat" alt="soum-ik" /> </p>
+---
 
+### 👨‍💻 About Me
+
+I’m **Soumik Sarkar**, a dev who lives at the intersection of **backend engineering**, **AI automation**, and **cloud infrastructure**. I love turning ambitious ideas into reality — with clean code, scalable systems, and just the right touch of AI magic ✨.
+
+Started my journey in **July 2022**, and since then, I’ve been on a rocket ride through modern stacks, real-world projects, and collaborative open-source adventures. Obsessed with learning, building, shipping, and optimizing.
+
+---
+
+### ⚡ What I'm Building
+
+- 🤖 **Multi-Model AI Agents** using LangChain, Hugging Face, Agentic AI  
+- 🧠 **RAG systems**, LLM-powered workflows, and **TensorFlow-based identity verification**  
+- 🔁 **MCP server** exploration for orchestrating intelligent agent pipelines  
+- 🔧 Scalable **Microservices Architecture** with Prisma, PostgreSQL, MongoDB  
+- ⚙️ Real-time systems powered by **Socket.io**, **Redis**, **BullMQ**  
+- 💳 Seamless **Stripe payment flows** and subscription automation  
+- 🚀 CI/CD pipelines for smooth delivery with **GitHub Actions**, **Docker**, and **Azure + AWS**  
+- 🌍 Web apps with **Next.js**, **React**, and edge deployments
+
+---
 ### :coffee: &emsp;Connect with me!
 <hr/>
 
