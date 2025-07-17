@@ -31,7 +31,6 @@ Started my journey in **July 2022**, and since then, I’ve been on a rocket rid
 
 ---
 ### :coffee: &emsp;Connect with me!
-<hr/>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/soumik.sarkar.16547)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumik-sarkar-a3b438290/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soumik.sarkar.16547/)
