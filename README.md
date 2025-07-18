@@ -14,7 +14,7 @@
 
 I’m **Soumik Sarkar**, a dev who lives at the intersection of **backend engineering**, **AI automation**, and **cloud infrastructure**. I love turning ambitious ideas into reality — with clean code, scalable systems, and just the right touch of AI magic ✨.
 
-Started my journey in **July 2022**, and since then, I’ve been on a rocket ride through modern stacks, real-world projects, and collaborative open-source adventures. Obsessed with learning, building, shipping, and optimizing.
+I’ve been on a rocket ride through modern stacks, real-world projects, and collaborative open-source adventures—obsessed with learning, building, shipping, and optimizing.
 
 ---
 
