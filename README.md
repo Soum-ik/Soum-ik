@@ -20,14 +20,14 @@ I’ve been on a rocket ride through modern stacks, real-world projects, and col
 
 ### ⚡ What I'm Building
 
-- 🤖 **Multi-Model AI Agents** using LangChain, Hugging Face, Agentic AI  
-- 🧠 **RAG systems**, LLM-powered workflows, and **TensorFlow-based identity verification**  
-- 🔁 **MCP server** exploration for orchestrating intelligent agent pipelines  
-- 🔧 Scalable **Microservices Architecture** with Prisma, PostgreSQL, MongoDB  
-- ⚙️ Real-time systems powered by **Socket.io**, **Redis**, **BullMQ**  
-- 💳 Seamless **Stripe payment flows** and subscription automation  
-- 🚀 CI/CD pipelines for smooth delivery with **GitHub Actions**, **Docker**, and **Azure + AWS**  
-- 🌍 Web apps with **Next.js**, **React**, and edge deployments
+ 🤖 **Multi-Model AI Agents** using LangChain, Hugging Face, Agentic AI  
+ 🧠 **RAG systems**, LLM-powered workflows, and **TensorFlow-based identity verification**  
+ 🔁 **MCP server** exploration for orchestrating intelligent agent pipelines  
+ 🔧 Scalable **Microservices Architecture** with Prisma, PostgreSQL, MongoDB  
+ ⚙️ Real-time systems powered by **Socket.io**, **Redis**, **BullMQ**  
+ 💳 Seamless **Stripe payment flows** and subscription automation  
+ 🚀 CI/CD pipelines for smooth delivery with **GitHub Actions**, **Docker**, and **Azure + AWS**  
+ 🌍 Web apps with **Next.js**, **React**, and edge deployments
 
 ---
 ### :coffee: &emsp;Connect with me!
